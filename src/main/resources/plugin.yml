@@ -1,0 +1,10 @@
+name: FFS-Armorstand
+version: '${project.version}'
+main: nl.dionnek.ffs.FFS_Armorstand
+api-version: '1.20'
+authors: [Dionnek]
+
+commands:
+  amsce:
+    description: amsce command
+    usage: /amsce
